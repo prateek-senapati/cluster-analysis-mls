@@ -1,7 +1,7 @@
 # Cluster Analysis of MLS Players using K Means Clustering and Principal Component Analysis
 
 
-* In this project, I have used K means clustering and principal component analysis (PCA) to group players having similar attributes and style of play into clusters. 
+* In this project, I have used K means clustering and principal component analysis (PCA) to form clusters of central midfielders (MLS 2020) having similar attributes and style of play. Cluster analysis can be used for recruiting players who are similar to the big name players but can also fit in the team’s budget.
 
 
 * This project is inspired by an amazing article titled [COMPARING PLAYERS: CLUSTERING AND STYLE OF PLAY](https://www.americansocceranalysis.com/home/2020/3/3/clustering) by [Sam Goldberg](https://www.americansocceranalysis.com/?author=5e260cf5e3c0a94c0a87edaa) on [American Soccer Analysis](https://www.americansocceranalysis.com/). 
